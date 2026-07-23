@@ -1,0 +1,49 @@
+name: Balleko Auto Scraper Matrix
+
+on:
+  # Membuka gerbang untuk REST API pihak ketiga (cron-job.org / Postman)
+  workflow_dispatch: 
+  repository_dispatch:
+    types: [trigger-scraper]
+
+jobs:
+  scrape_and_push:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python Environment
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install System Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests playwright
+          
+      - name: Install Headless Chromium
+        run: playwright install chromium --with-deps
+
+      - name: Eksekusi Scraper Olahraga (Requests murni)
+        run: python scripts/generate-sport-m3u.py
+        env:
+          # Memastikan file SPORTS.m3u disimpan di root repositori
+          GITHUB_ACTIONS: true 
+
+      - name: Eksekusi Scraper Saluran VIP (Playwright Blitz Mode)
+        run: python scripts/channels.py
+
+      - name: Commit & Push Hasil Playlist
+        run: |
+          git config --global user.name "Mabes Enterprise Automation"
+          git config --global user.email "mabes-bot@users.noreply.github.com"
+          
+          # Menambahkan kedua file hasil keluaran skrip
+          git add SPORTS.m3u live_tv_channels.m3u
+          
+          # Hanya lakukan commit jika ada perubahan baris pada file
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update Balleko Playlists [skip ci]"
+          git push
