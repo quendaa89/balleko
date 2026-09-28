@@ -1,27 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="ABC US" tvg-logo="https://i.imgur.com/SkHxsJG.png" group-title="Sports",ABC US
+#EXTINF:-1 tvg-name="ESPN BACKUP US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports",ESPN BACKUP US
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb354/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzU0OjE3OTA2MDc2NjM4NTE6Y2RubGl2ZXR2LnR2OjIzNDkwOGZkZDM5YjY4ZjEuYmY2YzBiMjJjZjkyNzc0NDkxMTZhM2FkODBlOWM5NWMwZGVjZTlhMzQyMGY3MTAxNzRiMGQyOTAyMTU2ZTBjYw
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb34b/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzRiOjE3OTA2MTEyNjUwMTI6Y2RubGl2ZXR2LnR2OjYyYzE4NDhkMDk5Y2U4ZGMuZGNiOTE1MzM5MTUzODJhOTFhY2M2YTY5OWI2MmQ0MjU1NzdkYTMwNzdjYzcxYzg2ZWJkMDRiMTlmMTFlYWZlNw
 
-#EXTINF:-1 tvg-name="ESPN 1 ULTRA  HD NL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports",ESPN 1 ULTRA  HD NL
+#EXTINF:-1 tvg-name="Sky Sports Mix UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4091.png" group-title="Sports",Sky Sports Mix UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cce5a/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjZTVhOjE3OTA2MDc2NjM4Nzg6Y2RubGl2ZXR2LnR2OmY4MDc2Zjg4ODg4NzcxZTIuMTI0YjEyNTU0NTAyMmIyYjZmZTViNWU4YWQ2OWE1ZDIyMGYxOTE4MTIxOTA4NjI0MzViZmE5OWI2YTE5MDQ3Mg
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc32a/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzJhOjE3OTA2MTEyNjUwMTQ6Y2RubGl2ZXR2LnR2OmM3OGJjZGUyYzkyYTU4MGEuOGM5YzA3YzlhZWU5ZWY3YjZjODdiYzM2MDFiMTlhZmJkNDZkNTk2ODI5ZWU5ODU1ZDc0OWJiOGQ1ZGJjMjQwYQ
 
-#EXTINF:-1 tvg-name="ESPN FHD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports",ESPN FHD US
+#EXTINF:-1 tvg-name="beIN SPORTS 1 FR FHD" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="Sports",beIN SPORTS 1 FR FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb59e/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTllOjE3OTA2MDc2NjQwMjE6Y2RubGl2ZXR2LnR2OjVmN2Y5YjA3ZDJmNmY0MzIuNzI5NThhM2Q5M2UwZmExNDg0MjU5Y2UwNDM4MzRjMzJiY2Q0ZjllODhiNjk0ZDI0MDUzNDY0NjAyYmEyZjkyZQ
-
-#EXTINF:-1 tvg-name="Sport 5 HD IL" tvg-logo="https://i.imgur.com/ti6SYvm.png" group-title="Sports",Sport 5 HD IL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce602/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlNjAyOjE3OTA2MDc2NjM4ODU6Y2RubGl2ZXR2LnR2OmI4NDViNzNkNWRkNTQ4MWQuODNlMjA4ODZlNDYxMGYyMjBkZGIwNGU0OTNmNTM1NWEwYmM2YmQ4MzRlZTUwYzYzNmU1OThkN2U5ZjJlOTIzNw
-
-#EXTINF:-1 tvg-name="TSN 1 FHD CA" tvg-logo="https://i.imgur.com/odCNBZP.png" group-title="Sports",TSN 1 FHD CA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc172/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTcyOjE3OTA2MDc2NjQwMTI6Y2RubGl2ZXR2LnR2OmYyZDdmNzA5MTA2Nzg0MjIuNzEyZGFhYjFmODY2MTM0YjQxMWNlZTkyMWE5ZjQ1OTJjMGY4NzkzN2ZiYmM4ZDVmZGIzODJhZWQ0Mzk1MTFmNQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2681d8192bb76ca98a/playlist.m3u8?token=NmEyODhkMjY4MWQ4MTkyYmI3NmNhOThhOjE3OTA2MTEyNjUwMDg6Y2RubGl2ZXR2LnR2OmZmZGQ3ODFmM2QxNjkyOTAuZDMyNGJiZDA4ODg1MDcwYWQ1MzQxY2VhZDJhODAwYjVkMDIxOGZiYTJkNjk4OTFmOGJiY2RlZGRmNjkwYjA2MA
 
