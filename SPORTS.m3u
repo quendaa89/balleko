@@ -1,12 +1,82 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="CA CTV Winnipeg" tvg-logo="https://i.imgur.com/ljKb0UX.png" group-title="Sports",CA CTV Winnipeg
+#EXTINF:-1 tvg-name="CA CTV Montreal" tvg-logo="https://i.imgur.com/ljKb0UX.png" group-title="Sports",CA CTV Montreal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cbfee/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNiZmVlOjE3OTA2MTQ4NjQzMDE6Y2RubGl2ZXR2LnR2Ojk1MjA4OGI3NzBkNDYxNTkuOTYyMjY5M2JlNjkxMGQyMTdjMTgyYjkxMDc5NTBmZmQ1ZTE1MmQ3OWQxNWE4MTA4ZGZlOGIyNmMzZmUxMTk0NA
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cbff8/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNiZmY4OjE3OTA2MTg0NjQ4MjE6Y2RubGl2ZXR2LnR2OjJkMDJmOWRiNzJhMDQxMzkuMjMyNThhNzE0MWJjNTBmMjAzNjI0OWFkNTk4MjBiNGMxOGJiMGI1NTAzN2YzYzE3NzdjZWUyNWIyNmRhNWMzOA
+
+#EXTINF:-1 tvg-name="ESPN US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports",ESPN US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb305/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzA1OjE3OTA2MTg0NjQ4MjE6Y2RubGl2ZXR2LnR2OjNmMjA5ZWE2NjEyZDk3YTguODM5M2VhZjM2MGY4MjhhODE1NTQyYTA0ZDZlMjc1MDZkZTk3MmE3ODA4OGE0MmY2ZjhhOGY0MWQyZjRkY2E2ZQ
+
+#EXTINF:-1 tvg-name="MOON MOVIE NETFLIX TR" group-title="Sports",MOON MOVIE NETFLIX TR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cceab/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjZWFiOjE3OTA2MTg0NjQ4MTk6Y2RubGl2ZXR2LnR2OmMwZGYzM2QxYWNhZWQ5ZjMuYjUyNGY1YTE4YTc4NjYzZDM4NzllM2Q3OTk5MjIwNGYwZjcyM2QyOTA0YWIzODk3OWFjNTZjOGFmNTMyYmFiNg
+
+#EXTINF:-1 tvg-name="NETFLIX THRILLER 1" group-title="Sports",NETFLIX THRILLER 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6a288d2681d8192bb76cac30/playlist.m3u8?token=NmEyODhkMjY4MWQ4MTkyYmI3NmNhYzMwOjE3OTA2MTg0NjQ4MzY6Y2RubGl2ZXR2LnR2OjhkYWY3NzU1YTNkODQ0ZTQuNzM3MGE5MTFjOGZiZGEzZGM1NzEwYjk4YmRiZjhhODg1MzVmZWMyNmY5M2UyYzcxZGUyMDBhMzA0NGM3YjcxNA
+
+#EXTINF:-1 tvg-name="NetFlix Asia" group-title="Sports",NetFlix Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6a288d2681d8192bb76cac36/playlist.m3u8?token=NmEyODhkMjY4MWQ4MTkyYmI3NmNhYzM2OjE3OTA2MTg0NjQ4MzM6Y2RubGl2ZXR2LnR2OjE4NDgyYTExMWE4NDA0YWIuMmQwMmMyNDBjNDA4ODkzOWU1ZDJiOWViOTNmZDg5MjAwNzI5NmFmMjI5MTI5MjFmZDc0NTNlM2M2MjczMjMyNA
+
+#EXTINF:-1 tvg-name="Netflix Discovery FHD" group-title="Sports",Netflix Discovery FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccab7/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWI3OjE3OTA2MTg0NjQ4MDg6Y2RubGl2ZXR2LnR2OmVjYWQ5MWI4MTQ1MWE4MTUuODZhY2M4YzBiOWEwMmIyODcwOGEyNzAzZjk3OWEyOGFkM2Y0OTZiNzU4YWEwZjEzMmVjZWEwMTMzMjQxMmIwOQ
+
+#EXTINF:-1 tvg-name="Netflix Indies ES" group-title="Sports",Netflix Indies ES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cca97/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYTk3OjE3OTA2MTg0NjQ4MjU6Y2RubGl2ZXR2LnR2OjlhMjY3MDBmODUyMGI3MjEuOTllNDk1MTFiNmIzODM2ZjEwMTA5YTdiM2U4YzVlNDk3YTA1ZjgyN2IyYTUwMzM5ZTY0M2JiODFhZDMzODBhOQ
+
+#EXTINF:-1 tvg-name="Netflix Premiere 7" group-title="Sports",Netflix Premiere 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cba05/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiYTA1OjE3OTA2MTg0NjQ4MDc6Y2RubGl2ZXR2LnR2OmZjYzEzZTg4NGM5ZTliNDMuYTUzYzEzZDkzNzUyY2E3Yjg0OTZiNjA2NGZkODgxOWI1MDBhNDMyMzU0ODAwOTUxNTdjZTk5OTZjYTlkMjc2NQ
+
+#EXTINF:-1 tvg-name="Netflix Premium FR" group-title="Sports",Netflix Premium FR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd16b/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMTZiOjE3OTA2MTg0NjQ4NDA6Y2RubGl2ZXR2LnR2OmMwOTMzODBjNTI0NWRmYTYuN2M3MGY4MjQyOTQ1ZjM0MzY1NzJjYTk2MjJkZTUzMThlZmI3NmUxOGM0ZTYxODM4MWM2OGU2OTU5NzVlYWM3MA
+
+#EXTINF:-1 tvg-name="Netflix Series 5" group-title="Sports",Netflix Series 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cba13/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiYTEzOjE3OTA2MTg0NjQ4NDA6Y2RubGl2ZXR2LnR2OmY1NjY2OGY1OTNjNjkyYzMuZjI2YTViN2I0OGMyYWMwODk5YjAyNzk5ZmViMmE3Mjc3MzlmZmQwNjJjNTJhOTEwZTEwNTBiMjY3MmU1ZWViYQ
+
+#EXTINF:-1 tvg-name="Netflix Series 6" group-title="Sports",Netflix Series 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cba14/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiYTE0OjE3OTA2MTg0NjQ4MDg6Y2RubGl2ZXR2LnR2OjQ1ODc3NzQ2MGRjODFhODguZDkwY2M0ZTMwNjkyNTA4MWNkZjMzOTZjMTA2Y2I0YjMzMzI4ZWVkNTc4NDBhZGUwNDdlMTYyNWU3OWMzM2YwNA
+
+#EXTINF:-1 tvg-name="Netflix Telenovelas ES" group-title="Sports",Netflix Telenovelas ES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccaa2/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWEyOjE3OTA2MTg0NjQ4NDI6Y2RubGl2ZXR2LnR2OjRmZTA3YmE2YWU4MmRhZWYuMDg3ODNlNTIxMGNjOTI1ZTc0MDNlZDdjNDVjYTQzOGM1NjVlNmQ1NTVlYmFjZTI4MmZiYjg1MWFiMzM3ODJhYw
+
+#EXTINF:-1 tvg-name="Sky Sports Mix HD UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4091.png" group-title="Sports",Sky Sports Mix HD UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc32b/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzJiOjE3OTA2MTg0NjQ4MTc6Y2RubGl2ZXR2LnR2OjNmMTk2YjQyYTk1ZWJkMjQuMmIwNTBkMzU5MzlmNzFhYzY0MWIyZmQ1ZTIzNmY2MGE2YTczMmIxYmVjNjYzODY4NmY4MGNiMTQ5NTU4YjY5YQ
+
+#EXTINF:-1 tvg-name="The Netflix Afterparty - S01E02" group-title="Sports",The Netflix Afterparty - S01E02
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6a288d5a81d8192bb76e9caf/playlist.m3u8?token=NmEyODhkNWE4MWQ4MTkyYmI3NmU5Y2FmOjE3OTA2MTg0NjQ5Mzc6Y2RubGl2ZXR2LnR2OjAyM2Q2OGQ2NGViZDYxYmIuYzU3NjE3ZmU3ZTVlZmMzM2U5MGZmM2UxYmU4NzE4OTNlYzk5ODY2MzVmMmZiNTkxMTUxOTU0NGI2ZTFiYWM4MA
+
+#EXTINF:-1 tvg-name="The Netflix Afterparty - S01E07" group-title="Sports",The Netflix Afterparty - S01E07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6a288d5a81d8192bb76e9cb4/playlist.m3u8?token=NmEyODhkNWE4MWQ4MTkyYmI3NmU5Y2I0OjE3OTA2MTg0NjQ5MzY6Y2RubGl2ZXR2LnR2OjYzNDU0Y2VkMjhmNGFlNWYuY2RhMGQzZmY0NTIxYmUxYjdjNDk5MmQwZDE5M2I2MTYxNGZiOTZmZmZhMzdlNGQ0ZGY1NWI3YzZmY2E1N2Y1MQ
 
 #EXTINF:-1 tvg-name="beIN SPORTS 1 FR HD" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="Sports",beIN SPORTS 1 FR HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6a288d2681d8192bb76ca9a2/playlist.m3u8?token=NmEyODhkMjY4MWQ4MTkyYmI3NmNhOWEyOjE3OTA2MTQ4NjQyOTc6Y2RubGl2ZXR2LnR2OjMzNjQ1Zjc3NWY0NTZlMzMuMjA0Yzc1ODAzZTVkODZiNDgyMGIyODc0NTZmNTI4MDE2ZGNmNTdiMjVlOTU4Y2Q1OGI0NTJlZGJmZjU4N2IxMQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2681d8192bb76ca9a2/playlist.m3u8?token=NmEyODhkMjY4MWQ4MTkyYmI3NmNhOWEyOjE3OTA2MTg0NjQ4MTQ6Y2RubGl2ZXR2LnR2OjViM2U1OTNiZDcxMWUwNmUuY2I1MzhjYTY3M2M5OTQ4MTNlOTlhNjgxMDMxZmRmYTk2ZDMyMmM1NjBjMGE4YWQ2OTI1MWIzMzM4ZDI1Nzk1OA
 
