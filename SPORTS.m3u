@@ -1,12 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="CA CTV2 OTTAWA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/960px-CTV_2_2018.svg.png" group-title="Sports",CA CTV2 OTTAWA
+#EXTINF:-1 tvg-name="Max Sport 1 FHD BG" tvg-logo="https://i.imgur.com/0ohnpql.png" group-title="Sports",Max Sport 1 FHD BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc191/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTkxOjE3OTIzNjgwNTY4OTY6Y2RubGl2ZXR2LnR2OmJhOTQwNjNhOTAzYzBhMjcuOTJiYTk4MjFmOWQzZjVkZTljZGU5N2M5NTMwYTY1Nzg1ZDYwZjUxMGU2ODhmZGRhOGI4MTFiZTc1ZmEwMjMyNg
+https://cdnlivetv.tv/secure/api/v1/6a288d2d81d8192bb76cdf48/playlist.m3u8?token=NmEyODhkMmQ4MWQ4MTkyYmI3NmNkZjQ4OjE3OTIzNzE2NTQzNTY6Y2RubGl2ZXR2LnR2OmYwZmQwY2JiNWE5MzJjY2MuNjgzMzBiYzk3MTQzNTdhNWM3MDU4ODYxOTNjZWFmZjI3ZWQzMzNkNTJiZGQ0M2RjOTg3MzY4NmQ5NWY5MTU3ZA
 
-#EXTINF:-1 tvg-name="Canal+ Sport Extra 1 FHD PL" tvg-logo="https://i.imgur.com/a5a6Tor.png" group-title="Sports",Canal+ Sport Extra 1 FHD PL
+#EXTINF:-1 tvg-name="Premiere 5 HD BR" group-title="Sports",Premiere 5 HD BR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd308/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMzA4OjE3OTIzNjgwNTY4OTk6Y2RubGl2ZXR2LnR2OjUyNDkyMDdjMmRjYzc2Y2YuZTk1MGUwOTdjMzhlZjI1YjJkYjA0ZjJkZDFkNjk4NGVmNmQwMzBkZGJhZGY4MWNiNDFmZTBlOWVkNTFhZDBmNA
+https://cdnlivetv.tv/secure/api/v1/6a288d2e81d8192bb76ce762/playlist.m3u8?token=NmEyODhkMmU4MWQ4MTkyYmI3NmNlNzYyOjE3OTIzNzE2NTQzNjA6Y2RubGl2ZXR2LnR2OmM0YWQyNGQ3OGY3YjkxZmYuNjA1YWVmNDYwY2M3ZmQ3MmEwMmZlMmI5NjI1ODZmMDhlZTdiNzg0MmJhNjZiNDhiMzE4NWQwZmJmZjRmNmU4Ng
+
+#EXTINF:-1 tvg-name="Viaplay Sports 2 FHD UK" tvg-logo="https://i.imgur.com/Fx1n84p.png" group-title="Sports",Viaplay Sports 2 FHD UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc36b/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzZiOjE3OTIzNzE2NTQzNzE6Y2RubGl2ZXR2LnR2OjkxMTViNWEyMjhmMTg3OTguMjZlNmE5MDFjNTZkMzIyM2EzYjU0MzIzZWQzZDU4NWVlMjAwMDBjYmQxODk4NzI3YmY3OTcyMTVhOTMwNmIxYw
+
+#EXTINF:-1 tvg-name="Ziggo Sport 3 FHD NL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png" group-title="Sports",Ziggo Sport 3 FHD NL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cce69/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjZTY5OjE3OTIzNzE2NTQzNTY6Y2RubGl2ZXR2LnR2OmM2MDA2MzFhZGQyMmY3ZWEuOWIyYTVhNjUzZWUwMzQ0NTcwYzVmYzQwMGNhMTk1M2IwMzg2ZGI0YmJlOTI1MDI0YzBkMzVmYjE3NWFlNmI5Ng
 
