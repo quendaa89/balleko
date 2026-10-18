@@ -1,7 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="TSN 3 FHD CA" tvg-logo="https://i.imgur.com/odCNBZP.png" group-title="Sports",TSN 3 FHD CA
+#EXTINF:-1 tvg-name="CA CTV2 OTTAWA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/960px-CTV_2_2018.svg.png" group-title="Sports",CA CTV2 OTTAWA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc176/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc2OjE3OTIzNjQ0NTg0Njc6Y2RubGl2ZXR2LnR2OjIwZjE5M2JlNWNlOTM2YjAuODQxOWU3ZDM1NmRiYWViOGU4M2YwZDZlYzYzNGFjMjk3ZTI3MTMxYTM5YjcwYzVkMzcxMzY0YTUyMTUwODRhOQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc191/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTkxOjE3OTIzNjgwNTY4OTY6Y2RubGl2ZXR2LnR2OmJhOTQwNjNhOTAzYzBhMjcuOTJiYTk4MjFmOWQzZjVkZTljZGU5N2M5NTMwYTY1Nzg1ZDYwZjUxMGU2ODhmZGRhOGI4MTFiZTc1ZmEwMjMyNg
+
+#EXTINF:-1 tvg-name="Canal+ Sport Extra 1 FHD PL" tvg-logo="https://i.imgur.com/a5a6Tor.png" group-title="Sports",Canal+ Sport Extra 1 FHD PL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd308/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMzA4OjE3OTIzNjgwNTY4OTk6Y2RubGl2ZXR2LnR2OjUyNDkyMDdjMmRjYzc2Y2YuZTk1MGUwOTdjMzhlZjI1YjJkYjA0ZjJkZDFkNjk4NGVmNmQwMzBkZGJhZGY4MWNiNDFmZTBlOWVkNTFhZDBmNA
 
