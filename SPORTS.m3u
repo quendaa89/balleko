@@ -1,7 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="USA Network US" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/USA_Network_2025_logo.svg/960px-USA_Network_2025_logo.svg.png" group-title="Sports",USA Network US
+#EXTINF:-1 tvg-name="ESPN 2 US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="Sports",ESPN 2 US
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb34e/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzRlOjE3OTI0NTA4NTc4MjM6Y2RubGl2ZXR2LnR2OjMxOWVjOTk1ZGJiNGRkYWQuZTFlYTc2NGJiZDNiNTg0NjdkZGVmYzQ4ZjRjZjE4ODNlOWFjMDZmMTgxM2U1NzYwNjIxYmMxOWE1NzZhNThkZg
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb307/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzA3OjE3OTI0NTgwNjc0MzE6Y2RubGl2ZXR2LnR2OjlkNGFhMjhlNDUwZjIzMDUuYWNkZDYwNTQ0ZWZkNTNjZWVjNTg3NDAxNTNkMWFmODBkZmZmMWRhYzY2Y2UyN2I0Y2NmNzJhMzNiZjI0NDUzZQ
+
+#EXTINF:-1 tvg-name="ESPN BACKUP US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports",ESPN BACKUP US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb34b/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzRiOjE3OTI0NTgwNjc0MTM6Y2RubGl2ZXR2LnR2OjI2M2ZhOTJjNWQyMDQ5NmIuNTg5MDdhOGE0MmY1NDA3MmYxNzUwMmVkNzYwYjQ3MmY3M2E5NzNlZTFmYzYzYzU4ZTc5NTA1MGQ2OTgyMTk0NA
+
+#EXTINF:-1 tvg-name="NFL Network CA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png" group-title="Sports",NFL Network CA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc12b/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTJiOjE3OTI0NTgwNjc0Mjk6Y2RubGl2ZXR2LnR2OjM3ZjFjOWE1MzY0YzBjOWYuNTJmNGFjNTZjMDFjNWI2YTU5YWU4MTdjODYxMDI0OTY1ZjFlNjNmNmJjMmU3N2UzY2FiNzI0NzNiNGI0NWE4NA
 
