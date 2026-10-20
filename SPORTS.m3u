@@ -1,7 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Sky Sports F1 FHD UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" group-title="Sports",Sky Sports F1 FHD UK
+#EXTINF:-1 tvg-name="TNT Sports 1 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="Sports",TNT Sports 1 UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc315/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzE1OjE3OTI0NzI0NTk0OTI6Y2RubGl2ZXR2LnR2OjhjNjY1YjQwNTVmMGVjZTUuNTVmZTBhMjRlN2NkYjFhMjI1NjA5OGVlZDY5NTUxYWExNDM0MjU0YTEwZWE2NmMwMjc0ZGZhZjM0ZGJkMDg4YQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc341/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQxOjE3OTI0Nzk2NzE4MTc6Y2RubGl2ZXR2LnR2OjgyZDg1NmM0ODExNTEzMjAuNWYxY2EzMDlkMDU1YjY3ZmZiOTExYjAzZDg3YTViOWExY2Q1MThhNzExZmU1OGIxMThlNDRiZmQ1ZmE1MWIxNw
+
+#EXTINF:-1 tvg-name="TNT Sports 2 UK" tvg-logo="https://i.imgur.com/E6pLvOV.png" group-title="Sports",TNT Sports 2 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc345/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzQ1OjE3OTI0Nzk2NzE4MTI6Y2RubGl2ZXR2LnR2OmVkMDk5Y2QwMDY3N2VjOGYuODUwZGUxMDNmZDhiOWMzMjhkOTZmNGZkYjZkNzZhMjRlZWM1NTQ1YzA4YTI3ZDU5OWExMGUxMjFiOGU2MWNiNA
+
+#EXTINF:-1 tvg-name="beIN Sports Max 6 SD FR" tvg-logo="https://i.imgur.com/GHZHRPF.png" group-title="Sports",beIN Sports Max 6 SD FR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+https://cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd240/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkMjQwOjE3OTI0Nzk2NzE4MjM6Y2RubGl2ZXR2LnR2OmJmYWU5NzNkN2E5NTg3ZmQuMGY1MTcxOTAyZGY2N2Y4ZmU4N2IzMWJjOTE5OTY5MTg3MDhjZWQ5MmJkZWZiZDkyYjI0OGE3ZTBiYmEwM2NlMw
 
